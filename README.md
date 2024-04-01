@@ -5,6 +5,9 @@
 #### By *Denley Kipkoech*
 
 ## Description
+the first code swapcase challenge changes the sentence case
+the second code arraygen challenge generates an array between to inputs
+the third code prime challenge filters the array to return only prime numbers
 
 
 ## Installation
