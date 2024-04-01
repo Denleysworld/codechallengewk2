@@ -1,4 +1,4 @@
-#(Code challenge week 2)
+### Code Challlenge week 2
 
 #### Date, 2024/04/01
 
@@ -18,8 +18,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
-
+Git clone https://github.com/Denleysworld/codechallengewk2.git
 ```
 
 # Live Link
@@ -30,7 +29,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+https://github.com/Denleysworld
 
 ### License
 The content of this site is licensed under the MIT license
