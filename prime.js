@@ -1,5 +1,5 @@
 //the function findPrimes is declared make sure it is an array
-function findPrimes(arr) {
+function getPrime(arr) {
     //this function isPrime is used to determine whether a number is a prime or not
     function isPrime(num) {
         //the condition in the if is used to remove any number 1
@@ -13,4 +13,4 @@ function findPrimes(arr) {
   //here it is used to filter the array and return it.
     return arr.filter(isPrime);
   }
-console.log(findPrimes(arr));
+console.log(getPrime(arr));
